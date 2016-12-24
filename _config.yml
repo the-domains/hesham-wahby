@@ -1,0 +1,31 @@
+typography_spectrum: 0.023928277660161257
+color:
+  brandStrength: 0.6514554242603481
+  lightness: 0.5325492727570236
+  saturation: 0.001586550148203969
+  rhythmicContrast: 0.4834654605947435
+  brandColors:
+    - '#040204'
+    - '#FCDA14'
+    - '#A48E1C'
+    - '#2C260C'
+    - '#7C6E14'
+github: true
+layout_spectrum: 0.9799781718757004
+author:
+  name: Hesham Wahby
+  email: hesham@wah.by
+  url: 'http://hesham.wah.by'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc29fdf-5ad2-4dee-91fd-97e7dc77fa13.gif
+name: Hesham Wahby
+url: 'http://hesham.wah.by'
+navigation:
+  - name: About
+    id: 17823de4-1f56-4f93-b8ef-ec4739c1cfdc
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4441b43b-7e25-477a-b9c6-d380aa1f6dc7.gif
+title: Hesham Wahby
+content: []
+description: ''
