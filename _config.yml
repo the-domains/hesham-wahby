@@ -21,9 +21,6 @@ logo: >-
 name: Hesham Wahby
 url: 'http://hesham.wah.by'
 navigation:
-  - name: About
-    id: 17823de4-1f56-4f93-b8ef-ec4739c1cfdc
-    type: content
   - name: Games
     id: 4afa0937-28d9-4d1e-a663-1cd618ef4425
     type: content
