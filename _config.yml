@@ -24,6 +24,9 @@ navigation:
   - name: Games
     id: 4afa0937-28d9-4d1e-a663-1cd618ef4425
     type: content
+  - name: About
+    id: 405f1f8a-be99-49c9-b6b5-56fd57c0c325
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4441b43b-7e25-477a-b9c6-d380aa1f6dc7.gif
 title: Hesham Wahby
