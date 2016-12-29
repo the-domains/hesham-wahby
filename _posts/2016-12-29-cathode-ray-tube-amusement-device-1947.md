@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Games Replay #1'
-dateModified: '2016-12-29T23:14:14.577Z'
-datePublished: '2016-12-29T23:14:15.272Z'
+dateModified: '2016-12-29T23:14:49.763Z'
+datePublished: '2016-12-29T23:14:50.617Z'
 title: Cathode Ray Tube Amusement Device (1947)
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 [Games Replay \#1][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3db430d7-9694-4fd2-ae9e-009519875cf1.jpg)
 
-So finally, after much pondering, here is my first installment of _The Games Replay_ series. The reason it took me so long was that I had to decide where (or when) to start from.
+So finally, after much pondering, here is my first installment of the _Games Replay_ series. The reason it took me so long was that I had to decide where (or when) to start from.
 
 ---
 
