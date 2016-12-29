@@ -1,17 +1,17 @@
-typography_spectrum: 0.023928277660161257
+layout_spectrum: 0.24629565132652767
+typography_spectrum: 0.4208881130338748
 color:
-  brandStrength: 0.6514554242603481
-  lightness: 0.5325492727570236
-  saturation: 0.001586550148203969
-  rhythmicContrast: 0.4834654605947435
+  brandStrength: 0.23263925470264243
+  lightness: 0.05643626044937732
+  saturation: 0.4902560388863935
+  rhythmicContrast: 0.1666870808979441
   brandColors:
-    - '#040204'
-    - '#FCDA14'
-    - '#A48E1C'
-    - '#2C260C'
-    - '#7C6E14'
+    - '#FFFFFF'
+    - '#400080'
+    - '#FCE21C'
+    - '#FF8000'
+    - '#000000'
 github: true
-layout_spectrum: 0.9799781718757004
 author:
   name: Hesham Wahby
   email: hesham@wah.by
