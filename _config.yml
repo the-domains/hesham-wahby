@@ -1,4 +1,3 @@
-layout_spectrum: 0.24629565132652767
 typography_spectrum: 0.4208881130338748
 color:
   brandStrength: 0.23263925470264243
@@ -12,10 +11,11 @@ color:
     - '#FF8000'
     - '#000000'
 github: true
+layout_spectrum: 0.24629565132652767
 author:
-  name: Hesham Wahby
+  name: ''
   email: hesham@wah.by
-  url: 'http://hesham.wah.by'
+  url: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc29fdf-5ad2-4dee-91fd-97e7dc77fa13.gif
 name: Hesham Wahby
