@@ -4,9 +4,16 @@
         <description><![CDATA[Hesham Wahby]]></description>
         <link>http://hesham.wah.by/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Dec 2016 22:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2016 22:49:42 GMT</lastBuildDate>
         <atom:link href="http://hesham.wah.by/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Dec 2016 22:49:14 GMT</pubDate>
+        <pubDate>Thu, 29 Dec 2016 22:49:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Games]]></title>
+            <description><![CDATA[<article><h1>Games</h1><p>This is my quest to chronicle the history of computer games. Over the next few years, or as long as I still have the interest and patience, I will collect, install, run, play and review every (significantly publicized) game ever made, in chronological order. I will consider all platforms, including computers, consoles and arcades.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e29940f-7fe2-4b05-95e5-678915ff8cf9.jpg"></article>]]></description>
+            <link>http://hesham.wah.by/games/index.html</link>
+            <guid isPermaLink="false">4afa0937-28d9-4d1e-a663-1cd618ef4425</guid>
+            <pubDate>Thu, 29 Dec 2016 22:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Hi, I’m Hesham! I am an engineer, entrepreneur and venture capitalist. But this website is not about that. Actually, it could be about that too, but also about all the other things that arouse my curiosity and sentiment, or distract me for hours. I hope you find something here of interest!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e551bf05-5d1c-4036-8df9-0a18c4ed0141.jpg"></article>]]></description>
