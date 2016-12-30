@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Games Replay #1'
-dateModified: '2016-12-30T00:26:00.765Z'
-datePublished: '2016-12-30T00:26:01.532Z'
+dateModified: '2016-12-30T01:03:12.497Z'
+datePublished: '2016-12-30T01:03:13.584Z'
 title: Cathode Ray Tube Amusement Device (1947)
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ Technology was still very basic at the time, and the game was developed to displ
 It is unclear if the final game product was even ever completely built. There was a [patent][1] filed describing it, and there is no remaining working model of it.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/933e60a6-c8e1-422e-98d0-d13a5d989139.jpg)
 
-I won't go into too much more historical detail, as that is not the point of this series. You can read more about it on [Wikipedia,][2][Popular Mechanics][3] and other places online, if you are interested.
+I won't go into too much more historical detail, as that is not the point of this series. You can read more about it on [Wikipedia][2], [Popular Mechanics][3] and other places online, if you are interested.
 
 I will end with just my brief take on it, since I cannot properly review it. I would not consider CRTAD to really be a video game or computer game. Many parts of it were manual, and there is no real software component involved. Add to that, of course, that it probably was never actually built. I do recognize that the logic hardwired into analog circuits is a form of programmed algorithm, and applaud the creators for the pioneering concept behind it. But to me, it sounds more like a simple physics toy, and it does not seem there was a complete designed and coded product that would deliver real game amusement value, which is what this series is all about.
 
