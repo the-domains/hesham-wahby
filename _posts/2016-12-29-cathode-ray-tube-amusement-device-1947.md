@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Games Replay #1'
-dateModified: '2016-12-30T01:03:12.497Z'
-datePublished: '2016-12-30T01:03:13.584Z'
+dateModified: '2016-12-30T01:03:35.562Z'
+datePublished: '2016-12-30T01:03:36.299Z'
 title: Cathode Ray Tube Amusement Device (1947)
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ Apparently, the first "video game", as recognized by most sources, is known as t
 
 CRTAD was basically a game in which you would shoot missile shells across the screen at airplanes and other objects. You have to aim before you shoot, much like the more modern Worms games, I would imagine, and the missile would follow a parabolic arc, and explode after a specific time, hopefully destroying your target.
 
-Technology was still very basic at the time, and the game was developed to display on a very basic CRT or oscilloscope display, which showed the missile as a spot tracing the parabolic trajectory. The trajectory angle, speed, etc. were controlled using a series of knobs before hitting a switch to fire. And the target objects were not actually shown as video on the screen, but instead were just plastic overlays placed on the outside of the screen. I assume you would have to decide for yourself whether you hit the target, and then keep score manually. :0)
+Technology was still very primitive at the time, and the game was developed to display on a very basic CRT or oscilloscope display, which showed the missile as a spot tracing the parabolic trajectory. The trajectory angle, speed, etc. were controlled using a series of knobs before hitting a switch to fire. And the target objects were not actually shown as video on the screen, but instead were just plastic overlays placed on the outside of the screen. I assume you would have to decide for yourself whether you hit the target, and then keep score manually. :0)
 
 It is unclear if the final game product was even ever completely built. There was a [patent][1] filed describing it, and there is no remaining working model of it.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/933e60a6-c8e1-422e-98d0-d13a5d989139.jpg)
