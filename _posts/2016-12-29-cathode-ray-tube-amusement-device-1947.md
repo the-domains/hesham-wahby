@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Games Replay #1'
-dateModified: '2016-12-29T23:14:49.763Z'
-datePublished: '2016-12-29T23:14:50.617Z'
+dateModified: '2016-12-30T00:26:00.765Z'
+datePublished: '2016-12-30T00:26:01.532Z'
 title: Cathode Ray Tube Amusement Device (1947)
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # Cathode Ray Tube Amusement Device (1947)
 
-[Games Replay \#1][0]
+[Games Replay][0] \#1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3db430d7-9694-4fd2-ae9e-009519875cf1.jpg)
 
 So finally, after much pondering, here is my first installment of the _Games Replay_ series. The reason it took me so long was that I had to decide where (or when) to start from.
@@ -43,7 +43,7 @@ I will end with just my brief take on it, since I cannot properly review it. I w
 
 However, I also do realize the historical significance of this device as a predecessor to actual computerized games that came later, and this is why I felt at the end, after lots of thought and hesitation, that I have to start with this game for completeness.
 
-[0]: /games "Games Replay #1"
+[0]: /games "Games Replay"
 [1]: http://www.google.com/patents/US2455992 "patent"
 [2]: https://en.wikipedia.org/wiki/Cathode-ray_tube_amusement_device "Wikipedia"
 [3]: http://www.popularmechanics.com/culture/gaming/a20129/the-very-first-video-game "Popular Mechanics"
