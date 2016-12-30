@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Games Replay #1'
-dateModified: '2016-12-30T01:03:35.562Z'
-datePublished: '2016-12-30T01:03:36.299Z'
+dateModified: '2016-12-30T11:46:51.466Z'
+datePublished: '2016-12-30T11:46:52.151Z'
 title: Cathode Ray Tube Amusement Device (1947)
 author: []
 publisher: {}
@@ -26,7 +26,8 @@ So finally, after much pondering, here is my first installment of the _Games Rep
 
 **Genre:** Artillery  
 **Creators:** Thomas T. Goldsmith Jr., Estle Ray Mann  
-**Platform:** Analog hardware
+**Platform:** Analog hardware  
+**Released:** 1947-01-25
 
 Apparently, the first "video game", as recognized by most sources, is known as the _Cathode Ray Tube Amusement Device_ (henceforth CRTAD, for short), developed by Thomas T. Goldsmith Jr. and Estle Ray Mann, at the amazingly early date of 1947\. And unfortunately, I cannot really add it to my collection, install it, or play it.
 
@@ -35,13 +36,15 @@ CRTAD was basically a game in which you would shoot missile shells across the sc
 Technology was still very primitive at the time, and the game was developed to display on a very basic CRT or oscilloscope display, which showed the missile as a spot tracing the parabolic trajectory. The trajectory angle, speed, etc. were controlled using a series of knobs before hitting a switch to fire. And the target objects were not actually shown as video on the screen, but instead were just plastic overlays placed on the outside of the screen. I assume you would have to decide for yourself whether you hit the target, and then keep score manually. :0)
 
 It is unclear if the final game product was even ever completely built. There was a [patent][1] filed describing it, and there is no remaining working model of it.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/933e60a6-c8e1-422e-98d0-d13a5d989139.jpg)
+![1947 patent for the Cathode Ray Tube Amusement Device](https://the-grid-user-content.s3-us-west-2.amazonaws.com/933e60a6-c8e1-422e-98d0-d13a5d989139.jpg)
 
 I won't go into too much more historical detail, as that is not the point of this series. You can read more about it on [Wikipedia][2], [Popular Mechanics][3] and other places online, if you are interested.
 
 I will end with just my brief take on it, since I cannot properly review it. I would not consider CRTAD to really be a video game or computer game. Many parts of it were manual, and there is no real software component involved. Add to that, of course, that it probably was never actually built. I do recognize that the logic hardwired into analog circuits is a form of programmed algorithm, and applaud the creators for the pioneering concept behind it. But to me, it sounds more like a simple physics toy, and it does not seem there was a complete designed and coded product that would deliver real game amusement value, which is what this series is all about.
 
 However, I also do realize the historical significance of this device as a predecessor to actual computerized games that came later, and this is why I felt at the end, after lots of thought and hesitation, that I have to start with this game for completeness.
+
+_Posted: 2016-12-29_
 
 [0]: /games "Games Replay"
 [1]: http://www.google.com/patents/US2455992 "patent"
